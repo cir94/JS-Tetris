@@ -1,0 +1,18 @@
+# Directories
+
+
+# Config files
+*.config.js
+
+# CSS Files
+*.scss
+*.css.map
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
